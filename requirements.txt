@@ -1,0 +1,11 @@
+jupyter
+PyPDF2
+langchain
+langchain_huggingface
+langchain-community
+faiss-cpu
+langchain-google-genai
+streamlit
+ctransformers
+langchain-huggingface
+python-multipart
